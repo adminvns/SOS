@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\inspirin\.android\build-cache\047fdbeb8aba0aa5aaefa28487640a1cd730fadf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_98fece186825d977c4b4e24990c306ce669d4c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\google-http-client-1.10.3-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eb027463d245e499ee7f40123acf5bb394553dc">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-1.10.3-beta_e19c1dfefbf0ac9878c4f753bffad5d3f31ab657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\jackson-core-asl-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8b2a3e5bc77ee1be67d060b44ac77d48a27d6e">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jackson-core-asl-1.9.4_24abdad38ba927fdd8f630ed233a29213d1ce370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inspirin\.android\build-cache\23f4e2f7de0e6b05cb6b366a8ab0ead12e5a6641\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c3da85d9d4764f72170d2b1d016cb1c677e5dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\guava-11.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57b40a943725d43610c898ac0169adf1b2d55742">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\guava-11.0.1_24f5cf48440d7814153e0b5c79a6b659b9692b0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\google-api-client-1.10.3-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29b1290ecd70554abd578cc69faafaa60388514">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-1.10.3-beta_cc420224151e98aa6ba44fc9fdd2483acd2aa123\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\google-oauth-client-1.10.1-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e5fd289c7f262c4d79899403aecf3b93d281ea4">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-oauth-client-1.10.1-beta_d48d38bd083a2773f35a0dedfa4c953b84996b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_b43c858c6b9dbf0344b8155f174b11cb742366d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsr305-1.3.9_0dd376c1444fafb102b53c84a97c9f784021516c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ebaa8ab06966aaadaa345d2242825aebebced6d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\twitter4j-core-4.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f4ac5989c7be37249dfe310bf78ba69773ebce2d">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\twitter4j-core-4.0.4_dcde6b6dd0083e13f1d05f101d85f06f00380eff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a566fbcb2d26b6824204918d57421f431a6cba50">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_07373bc460724739a152bef5f9ff4e36703184ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\google-http-client-android2-1.10.3-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9848edeb7959c816798e428b3e1d1be1070e990f">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-http-client-android2-1.10.3-beta_7617146614dc25717cb1be19babdb24acd33c86e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\libs\google-api-client-android2-1.10.3-beta.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91cbcf0bcf956de40d1202f981312d0626a3f586">
+        <dex dex="E:\Local Disk\apiit\android studio\Go EmergencyF1\app\build\intermediates\transforms\dex\debug\folders\1000\2\google-api-client-android2-1.10.3-beta_832b27544bc39ded2bf9d552ff35a65e02a261b8\classes.dex" />
+    </item>
+
+</items>

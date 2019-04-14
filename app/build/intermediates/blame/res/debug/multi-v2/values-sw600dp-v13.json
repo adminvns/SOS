@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ankit\\Desktop\\QuickHelp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ankit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\74032f5e625374d427da676628bcb1e1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ankit\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\8ce81643216e6441b621db618b4e4416\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,18,19,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1109,1173,2388",
+                        "endLines": "10,11,12,13,14,15,17,18,19,48",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "666,736,807,879,937,995,1104,1168,1231,2555"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ankit\\Desktop\\QuickHelp\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "from": {
+                        "startLines": "8,18,29,37,22",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "231,563,1072,1409,728",
+                        "endLines": "15,20,35,37,27",
+                        "endColumns": "12,12,12,36,12",
+                        "endOffsets": "522,720,1401,1441,1064"
+                    },
+                    "to": {
+                        "startLines": "20,28,31,38,39",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1236,1528,1688,2016,2052",
+                        "endLines": "27,30,37,38,44",
+                        "endColumns": "12,12,12,35,12",
+                        "endOffsets": "1523,1683,2011,2047,2383"
+                    }
+                }
+            ]
+        }
+    ]
+}

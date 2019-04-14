@@ -1,0 +1,34 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EnterRadiusActivity3"
+    android:background="@drawable/img_bg"
+     >
+
+    
+    <EditText
+        android:id="@+id/etCab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="81dp"
+        android:ems="10"
+         android:inputType="number"
+        android:hint="@string/radius1" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnCabRadius"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/etCab"
+        android:layout_toRightOf="@+id/etCab"
+        android:text="@string/radius2" />
+    
+</RelativeLayout>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+     android:background="@drawable/img_bg"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/etMessage"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:ems="10"
+            android:hint="Message" />
+
+        <EditText
+            android:id="@+id/etonename"
+            android:layout_width="155dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etMessage"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etonename"
+            android:ems="10"
+            android:hint="Emergency Contact 1"
+            android:inputType="phone" />
+
+        <EditText
+            android:id="@+id/ettwoname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/etonename"
+            android:layout_below="@+id/etone"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/ettwo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/btnGetContact2"
+            android:ems="10"
+            android:hint="Emergency Contact 2"
+            android:inputType="phone" />
+        <EditText
+            android:id="@+id/etthereename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@+id/ettwoname"
+            android:layout_below="@+id/ettwo"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etthree"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/etthereename"
+            android:ems="10"
+            android:hint="Emergency Contact 3"
+            android:inputType="phone" />
+
+        <EditText
+            android:id="@+id/etfourname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignRight="@+id/ettwoname"
+            android:layout_below="@+id/etthree"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/etfour"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/etfourname"
+          
+            android:ems="10"
+            android:hint="Emergency Contact 4" />
+
+          <EditText
+              android:id="@+id/etfivename"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_alignRight="@+id/etfourname"
+              android:layout_below="@+id/etfour"
+              android:ems="10"
+              android:hint="Name"
+              android:inputType="phone" />
+            
+        <EditText
+            android:id="@+id/etfive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+          	android:layout_below="@+id/etfivename"
+          
+          
+            android:ems="10"
+            android:hint="Emergency Contact 5"
+            android:inputType="text" >
+
+        </EditText>
+
+        <Button
+            android:id="@+id/btnsavecontact"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/etfive"
+            android:text="Save" />
+
+        <Button
+            android:id="@+id/btnGetContact2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/ettwoname"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/ettwoname"
+            android:text="Get Contact" />
+
+        <Button
+            android:id="@+id/btnGetContact3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/etthereename"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/etthereename"
+            android:text="Get Contact" />
+
+        <Button
+            android:id="@+id/btnGetContact4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/etfourname"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/etfourname"
+            android:text="Get Contact" />
+
+        <Button
+            android:id="@+id/btnGetContact5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/etfivename"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/etfivename"
+            android:text="Get Contact" />
+
+        <Button
+            android:id="@+id/btnGetContact1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/etonename"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/etonename"
+            android:text="Get Contact" />
+
+    </RelativeLayout>
+
+</ScrollView>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SOS APPLICATION</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="wel_button1">Police</string>
+    <string name="wel_button2">Hospital</string>
+    <string name="wel_button3">Fire</string>
+    <string name="wel_button4">Cabs</string>
+    <string name="wel_button5">Mini Doctor</string>
+    <string name="title_activity_enter_radius">Enter Radius</string>
+    <string name="radius1">Enter the radius</string>
+    <string name="radius2">Submit</string>
+    <string name="title_activity_enter_radius_activity2">Enter Radius</string>
+    <string name="title_activity_enter_radius_activity3">Enter Radius</string>
+
+    <string name="title_activity_current_location">Location</string>
+    <string name="bp_content_desc">Measure Blood Pressure</string>
+    <string name="heart_rate_content_desc">Measure Heart Rate</string>
+    <string name="first_aid_content_desc">Check First Aid tips</string>
+    <string name="strLocationName">Location Name</string>
+    <string name="strDescription">Description</string>
+    <string name="strPhone">Phone No.</string>
+    <string name="strLatitude">Latitude</string>
+    <string name="strLongitude">Longitude</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="straboutus">Created and Designed by </string>
+    <string name="strdeveloper1">Srishti</string>
+    <string name="strdeveloper2">Diksha</string>
+    <string name="strdeveloper3">Nishtha</string>
+    <string name="strUsername">Username</string>
+    <string name="strPassword">Password </string>
+    <string name="strLoginScreen">Enter username and Password to continue..</string>
+
+
+    <string name="enable_gps_dialog">GPS provider not enabled. Would you like to enable it?</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_services">Services</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_password">PasswordActivity</string>
+
+</resources>

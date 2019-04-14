@@ -1,0 +1,16 @@
+<android.support.design.widget.CoordinatorLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+
+    android:id="@+id/clayout"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_btn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="16dp"
+        android:layout_marginRight="16dp"
+        android:src="@drawable/ic_launcher"
+       />
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  
+ 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_bg"
+   >
+
+    <Button
+        android:id="@+id/btnViewMap"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/etPoliceRadius"
+        android:layout_alignBottom="@+id/etPoliceRadius"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/etPoliceRadius"
+        
+        android:text="@string/radius2" />
+
+    <EditText
+        android:id="@+id/etPoliceRadius"
+        android:inputType="number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="79dp"
+        android:ems="10"
+        android:hint="@string/radius1" >
+
+        <requestFocus />
+    </EditText>
+
+    <AnalogClock
+        android:id="@+id/analogClock1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnViewMap"
+        android:layout_marginTop="58dp"
+        android:layout_toLeftOf="@+id/btnViewMap" />
+
+   
+
+</RelativeLayout>
